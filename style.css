@@ -1,0 +1,17 @@
+.story, #pic, #name {
+  padding: 20px;
+  margin: 20px;
+}
+
+#name {
+  font-weight: 600;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+a {
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */
